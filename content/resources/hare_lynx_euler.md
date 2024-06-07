@@ -3,6 +3,7 @@ body: ''
 content_type: resource
 draft: false
 file: /courses/res-8-009-introduction-to-oscillations-and-waves-summer-2017/hare_lynx_euler.nb
+file_size: 249575
 file_type: application/mathematica
 image_metadata:
   caption: ''

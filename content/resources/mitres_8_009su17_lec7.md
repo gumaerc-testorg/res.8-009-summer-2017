@@ -3,6 +3,7 @@ body: ''
 content_type: resource
 draft: false
 file: /courses/res-8-009-introduction-to-oscillations-and-waves-summer-2017/mitres_8_009su17_lec7.pdf
+file_size: 410092
 file_type: application/pdf
 image_metadata:
   caption: ''
