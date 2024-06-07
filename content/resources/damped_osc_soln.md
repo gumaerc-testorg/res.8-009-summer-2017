@@ -3,6 +3,7 @@ body: ''
 content_type: resource
 draft: false
 file: /courses/res-8-009-introduction-to-oscillations-and-waves-summer-2017/damped_osc_soln.nb
+file_size: 48823
 file_type: application/mathematica
 image_metadata:
   caption: ''
