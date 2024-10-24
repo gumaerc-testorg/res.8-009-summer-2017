@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: /courses/res-8-009-introduction-to-oscillations-and-waves-summer-2017/res-8-009-sum17-th.jpg
+file: /ol-ocw-studio-app/courses/res-8-009-introduction-to-oscillations-and-waves-summer-2017/res-8-009-sum17-th.jpg
 file_size: 20183
 file_type: image/jpeg
 image_metadata:
