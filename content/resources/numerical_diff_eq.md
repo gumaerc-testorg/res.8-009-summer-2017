@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: /ol-ocw-studio-app/courses/res-8-009-introduction-to-oscillations-and-waves-summer-2017/numerical_diff_eq.nb
+file: courses/introduction-to-oscillations-and-waves/numerical_diff_eq.nb
 file_size: 6266
 file_type: application/mathematica
 image_metadata:
