@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: /ol-ocw-studio-app/courses/res-8-009-introduction-to-oscillations-and-waves-summer-2017/mitres_8_009su17_lec6.pdf
+file: courses/introduction-to-oscillations-and-waves/mitres_8_009su17_lec6.pdf
 file_size: 356653
 file_type: application/pdf
 image_metadata:
