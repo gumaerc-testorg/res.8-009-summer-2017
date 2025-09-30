@@ -14,7 +14,7 @@ Recitations: 1 session / week, 1 hour / session. Attending recitation is mandato
 
 ### About this Course
 
-This course was offered as part of [MITES Summer](https://mites.mit.edu/discover-mites/mites-summer/), a six-week, residential STEM experience for rising high school seniors. [MIT Introduction to Technology, Engineering, and Science (MITES)](https://mites.mit.edu/) provides transformative experiences that bolster confidence, create lifelong community, and build an exciting, challenging foundation in STEM for highly motivated 7th–12th grade students from diverse and underrepresented backgrounds.
+This course was offered as part of {{% resource_link "656a9040-6f17-4f9b-8787-d4f645500d3a" "MITES Summer" %}}, a six-week, residential STEM experience for rising high school seniors. {{% resource_link "5b82af90-9935-41ad-ae98-b1c6b01cab14" "MIT Introduction to Technology, Engineering, and Science (MITES)" %}} provides transformative experiences that bolster confidence, create lifelong community, and build an exciting, challenging foundation in STEM for highly motivated 7th–12th grade students from diverse and underrepresented backgrounds.
 
 ### Prerequisites
 
@@ -41,9 +41,9 @@ This course will cover the basic mathematics and physics of oscillatory and wave
 
 There are {{% resource_link "311b8a27-7162-417d-8ab0-db1ce379098f" "lecture notes" %}} for the course. We will not have a formal textbook, however, many useful references can be found online.
 
-- [The Physics of Vibrations and Waves](https://www.worldcat.org/formats-editions/57691593) by Pain: Comprehensive overview of oscillatory and wave phenomena. This course overlaps with chapters 1–6.
-- [The Physics of Waves](https://sites.harvard.edu/hgeorgi/physics-of-wave-files/) by Georgi: Similar to Pain in its scope and mathematical level. This course overlaps with the chapters 1–3 and 5–6.
-- [Waves notes](https://scholar.harvard.edu/david-morin/waves) by Morin: Chapters of a book in progress from David Morin. Contains many examples of concepts and very solid explanations. This course overlaps with chapters 1–5 and chapter 8.
+- {{% resource_link "08ed0e49-df31-4ac7-afd0-518e9548a59a" "The Physics of Vibrations and Waves" %}} by Pain: Comprehensive overview of oscillatory and wave phenomena. This course overlaps with chapters 1–6.
+- {{% resource_link "b9036803-105e-4c17-ac7e-7436cdd5031b" "The Physics of Waves" %}} by Georgi: Similar to Pain in its scope and mathematical level. This course overlaps with the chapters 1–3 and 5–6.
+- {{% resource_link "0da16297-2f5a-4fa1-aba1-aa2fbfd102b0" "Waves notes" %}} by Morin: Chapters of a book in progress from David Morin. Contains many examples of concepts and very solid explanations. This course overlaps with chapters 1–5 and chapter 8.
 
 ### Assignments
 
@@ -55,7 +55,7 @@ In completing these assignments, you can use online resources and your peers for
 
 *Note on Collaboration*: To prevent any mistakes in this direction, at the end of your assignment, list the people you collaborated with and the online resources you referenced. This list does not mean you can copy derivations from your friends as long as you cite them. Any work you submit must follow from your own reasoning.
 
-Finally, in writing up your work, it is important to not only write out derivations but to include an explanation of your mathematical derivations. In short, you need both words and equations in your solution. The lecture supplement ([Supplementary Notes 1](https://draft.ocw.mit.edu/courses/res-8-009-introduction-to-oscillations-and-waves-summer-2017/resources/mitres_8_009su17_sup01/)) will review the proper format for writing up your solutions.
+Finally, in writing up your work, it is important to not only write out derivations but to include an explanation of your mathematical derivations. In short, you need both words and equations in your solution. The lecture supplement ({{% resource_link "dc4f28c4-7b41-4d52-9875-5687f42e231c" "Supplementary Notes 1" %}}) will review the proper format for writing up your solutions.
 
 *Due Dates*: Except for the last assignment, problem sets will be due on Wednesday the morning before the start of class. The last assignment will be due on the day before the final exam.
 
@@ -65,4 +65,4 @@ There will be a midterm and a final exam.
 
 ### Evaluation
 
-There are no formal grades in [MITES](https://oeop.mit.edu/programs/mites/program-details), but you will receive numerical grades on your assignments and exams so that you (and I) can track your progress. Overall don’t stress too much about the absolute value of these grades over the course of the program. What is more important is consistently showing up in class, recitation, and office hours, and working to complete all assignments.
+There are no formal grades in {{% resource_link "4d9666b8-3991-48b8-adff-24b0d3499219" "MITES" %}}, but you will receive numerical grades on your assignments and exams so that you (and I) can track your progress. Overall don’t stress too much about the absolute value of these grades over the course of the program. What is more important is consistently showing up in class, recitation, and office hours, and working to complete all assignments.
